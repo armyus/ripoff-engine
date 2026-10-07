@@ -48,7 +48,7 @@ The project includes an evaluation module that automatically generates analytics
 - **`plots/actual_vs_predicted.png`:** A scatter plot visualizing the model's predictive variance alongside the perfect 1:1 benchmark diagonal.
 - **`plots/residual_distribution.png`:** A KDE histogram displaying the distribution of the prediction errors (Actual Fair Value - Predicted Fair Value), helping to diagnose heteroscedasticity or bias.
 
-*(Run `python milestone4_evaluation.py` to dynamically generate these artifacts.)*
+*(Run `python evaluation.py` to dynamically generate these artifacts.)*
 
 ---
 
