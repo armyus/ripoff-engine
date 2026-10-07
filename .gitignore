@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pkl
+data/*.csv
+!data/sample_dataset.csv
